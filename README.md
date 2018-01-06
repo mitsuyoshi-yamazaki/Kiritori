@@ -1,7 +1,7 @@
 ## Setup
 1. Set your Slack API Key using environment
 
-Publish your Slack API Token(lagacy-tokens) from https://api.slack.com/custom-integrations/legacy-tokens  
+Publish your Slack API Token(legacy-tokens) from https://api.slack.com/custom-integrations/legacy-tokens  
 Set your local environment variables referring to [.env.local.sample](https://github.com/miyachik/Kiritori/blob/develop/.envrc.local.sample)  
 This project recommend using [direnv](https://github.com/direnv/direnv). Install this and follow messages.  
 
